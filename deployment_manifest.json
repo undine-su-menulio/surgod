@@ -1,0 +1,316 @@
+{
+  "files": [
+    {
+      "file": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "file": "archival_records/datasets/births_1902.csv",
+      "bytes": 25930,
+      "sha256": "18237b00cf59782c31a9e3e39c131aeff62cf141d8c30212993562532f3072ec"
+    },
+    {
+      "file": "archival_records/datasets/relationships.csv",
+      "bytes": 3014,
+      "sha256": "d14ef926c5f813798bbcf4962dd808311d3df42259b3946fbcee89e4d6d4d4b1"
+    },
+    {
+      "file": "archival_records/datasets/residents.csv",
+      "bytes": 35980,
+      "sha256": "650e4cccaf26c207bd90ff67b61e06d08d3500746197ccd1b72a33c6ff2dccfe"
+    },
+    {
+      "file": "archive_languages.txt",
+      "bytes": 14023,
+      "sha256": "323e819f6d32c87ba54ab0c0bade5953bb776fd50f08bebb5b3168d268956b2e"
+    },
+    {
+      "file": "bibliography.md",
+      "bytes": 66754,
+      "sha256": "189897b3e6f0826d98794b119186b504683d46471da4197441f4d55871ab441c"
+    },
+    {
+      "file": "historical_maps/downloads/russia_n38_1_1997.jpg",
+      "bytes": 3183480,
+      "sha256": "8ef9566b7eb3852782828c9de9352c3dec50a99db945a69543978ac65b7b6705"
+    },
+    {
+      "file": "historical_maps/downloads/soviet_n38_063_1989.jpg",
+      "bytes": 3502451,
+      "sha256": "396d2ea80ef47b88e51e18da91d9aef004fd4138cf0625fcf2eba27e82d07e55"
+    },
+    {
+      "file": "historical_maps/downloads/soviet_n38_14_1992.jpg",
+      "bytes": 3014972,
+      "sha256": "0ea79d36b01518e40c98a32cc727febca61e82d3baf1d87de779b8d372822bc5"
+    },
+    {
+      "file": "historical_maps/previews/surgod_1989_detail.png",
+      "bytes": 224042,
+      "sha256": "d1be154570446370f8128f194fa4a83bc1e60a82ef0209eab131fc0529eec2e6"
+    },
+    {
+      "file": "historical_maps/previews/surgod_1992_review.png",
+      "bytes": 411233,
+      "sha256": "252cb64c46e938b8aecc1a6a1882d77fc15ff72160e9ac1496cd19db51a705fd"
+    },
+    {
+      "file": "index.html",
+      "bytes": 264538,
+      "sha256": "854cfb73763e2af8e8e2d826896e08015d79656ae43bc5bc55ff86c639cdd84b"
+    },
+    {
+      "file": "name_history.txt",
+      "bytes": 7225,
+      "sha256": "1d36d546ac173af984488fa194a0f4d4cdb6f08a5fe77fe5cad96b112b6a7ae6"
+    },
+    {
+      "file": "publications/08_2000_k-70-letiyu-obrazovaniya-mordovskoy-avtonomnoy-oblasti.html",
+      "bytes": 118256,
+      "sha256": "f8842187fa82294c909651fa5e099617618af2f25d6b930a1588fcd4dfd778dd"
+    },
+    {
+      "file": "publications/10_2021_mineralogiya-neopleystotsenovyh-moren-i-morenopodobnyh-otlozheniy-territorii-mordovii.html",
+      "bytes": 139353,
+      "sha256": "6d3680bb38de6cf00db66e8facad988fcce519d12169d1b33f699da5cc5345b5"
+    },
+    {
+      "file": "publications/24_2011_biotopicheskaya-harakteristika-nekotoryh-rek-mokshanskogo-basseyna.html",
+      "bytes": 216913,
+      "sha256": "ebedda84013fe70e3ce8368d66afe8a72eb1ff4008b33a90ca9e65302bdd4ccc"
+    },
+    {
+      "file": "publications.csv",
+      "bytes": 70213,
+      "sha256": "3782a759922a9918bbcc3c028d0617387d7fea233dc11f58693bd8fea587f009"
+    },
+    {
+      "file": "README.md",
+      "bytes": 4414,
+      "sha256": "66c82997772da84ad9535f5628edb2c8d174f94c88a0af668230bece6c95053c"
+    },
+    {
+      "file": "sources/wikipedia_surgod.html",
+      "bytes": 205258,
+      "sha256": "0353b6729f8873662b9251ad594dcd1b49f5761b8f2fd287d2d4fc95c3bc94d5"
+    },
+    {
+      "file": "surgod_wiki.html",
+      "bytes": 264538,
+      "sha256": "854cfb73763e2af8e8e2d826896e08015d79656ae43bc5bc55ff86c639cdd84b"
+    },
+    {
+      "file": "village_media/downloads/house_1964.jpg",
+      "bytes": 84675,
+      "sha256": "ed5de27f8a76ae1d75593c72dbb42f3b3105541869ecbfa5b14339cc4fc60ce7"
+    },
+    {
+      "file": "village_media/downloads/intertat_photo_01.jpg",
+      "bytes": 714835,
+      "sha256": "b87685c53cea9ea558910ee524f636e09698b336c2d4b037c7b63c50d738bd50"
+    },
+    {
+      "file": "village_media/downloads/intertat_photo_02.jpg",
+      "bytes": 328468,
+      "sha256": "60a5f53fbe32f287cd955d72498964effdc609a1b1782525933283879692468a"
+    },
+    {
+      "file": "village_media/downloads/intertat_photo_03.jpg",
+      "bytes": 341576,
+      "sha256": "040d01094aa5a88a50957dafccc40a3a35adb48a85e9d27e05808c4f91f849ac"
+    },
+    {
+      "file": "village_media/downloads/intertat_photo_04.jpg",
+      "bytes": 436265,
+      "sha256": "bca3c6b46406be1ada8d911e19f1a1ee82fcb3bcd407c9f4670a85d7f58ac503"
+    },
+    {
+      "file": "village_media/downloads/intertat_photo_05.jpg",
+      "bytes": 66238,
+      "sha256": "3c98b6174df88f3b1ff90a4940c320c2c3fad45326c497c07ea19793da09fa68"
+    },
+    {
+      "file": "village_media/downloads/intertat_photo_06.jpg",
+      "bytes": 342153,
+      "sha256": "d2ee028a4b069f3dca6253bde9787ba5dbb31c0d377594f1b171a185547ee5af"
+    },
+    {
+      "file": "village_media/downloads/intertat_photo_07.jpg",
+      "bytes": 279752,
+      "sha256": "b8e9ebe8064a03cc89e008110eefff57c9fad59cd54f67f4676b01a308842bfb"
+    },
+    {
+      "file": "village_media/downloads/intertat_photo_08.jpg",
+      "bytes": 280196,
+      "sha256": "97a1d169e0ddfb2d9194fa9ea5f53267528bf54e9c892e4cbb4c60fa863a4892"
+    },
+    {
+      "file": "village_media/downloads/intertat_photo_09.jpg",
+      "bytes": 395266,
+      "sha256": "e34ddcb07c567314b47052c34a59a8a71f85eb6d81fe2754e5ae99762da5e520"
+    },
+    {
+      "file": "village_media/downloads/mishar_family_1897.jpg",
+      "bytes": 61348,
+      "sha256": "d2b8fc2f1e0be0e19490eabcb05573c82046eae497a98fb565a567ba7c947b20"
+    },
+    {
+      "file": "village_media/downloads/mishar_forge_1897.jpg",
+      "bytes": 45857,
+      "sha256": "a21130d41344c2b085c2bb637155d08ee4d1da96ff59d7e366eed0d500acda46"
+    },
+    {
+      "file": "village_media/downloads/mishar_uniform_1845_1855.jpg",
+      "bytes": 342339,
+      "sha256": "3db0e8e9adc0ae7c9cb1a35835c0a25d53849c212e198b7ff749dd937eb50cba"
+    },
+    {
+      "file": "village_media/downloads/school_taktash_2011.jpg",
+      "bytes": 1750979,
+      "sha256": "690342c52ff170463aa03d0d2058db4436c6b16a35e13c9654057cadce1b8932"
+    },
+    {
+      "file": "village_media/ornament_research.md",
+      "bytes": 4442,
+      "sha256": "69d59cb10a79f296170aa3cb5542d5118ea5803b581507f7b0cc49ab7997c071"
+    },
+    {
+      "file": "village_media/poem_ru.txt",
+      "bytes": 8672,
+      "sha256": "85c883b7d27ab15777e56507506f5673dcaba22898129d60c123c22796269f00"
+    },
+    {
+      "file": "village_media/poem_tt.txt",
+      "bytes": 8026,
+      "sha256": "76272a7d66febad98a36e3347ff788af8f2c7f05cabe80972ed0baaecca5d8a9"
+    },
+    {
+      "file": "village_media/sources/embroidery_tatarica.html",
+      "bytes": 43881,
+      "sha256": "23c069ac7c83239de3d06aca07abf1cfe537afc50bacc5c253e557cc42111542"
+    },
+    {
+      "file": "village_media/sources/embroidery_tatarica.txt",
+      "bytes": 13197,
+      "sha256": "eecb67a124dac0603388bd1514d7c08dccf70eef5eaf73ba52d26d4cd82d50b1"
+    },
+    {
+      "file": "village_media/sources/mishar_goldwork.html",
+      "bytes": 52639,
+      "sha256": "b2840603c5354978c7786777ec3faa4f025b96f6edb665d879ea058a453439c1"
+    },
+    {
+      "file": "village_media/sources/mishar_goldwork.txt",
+      "bytes": 4149,
+      "sha256": "805cc7f788cd54d98c2b8f50154583eb1789432679459827b83070edf8ac42b3"
+    },
+    {
+      "file": "village_media/sources/ornament_tatarica.html",
+      "bytes": 42646,
+      "sha256": "45bb647ec9e23a927b00afd3bbd1c20fff394763ed83908eefeeb0139a9379f3"
+    },
+    {
+      "file": "village_media/sources/ornament_tatarica.txt",
+      "bytes": 14280,
+      "sha256": "4fb6d9d7effce27b5a8ab422a32283ec426497d9ad9088c901ae33057f9589a5"
+    },
+    {
+      "file": "village_media/sources/poem.html",
+      "bytes": 59585,
+      "sha256": "bfe66bbdb57b4f5b10f4904f87fdc033dd10673f6d5ce6313d1f0c8ba9253e06"
+    },
+    {
+      "file": "village_media/tatar_floral_ornament.svg",
+      "bytes": 1390,
+      "sha256": "fa352307976461efded8fa8ba64bbf59356e4f1860a4cd09a6b294a284726c85"
+    },
+    {
+      "file": "village_media/thumbnails/house_1964.jpg",
+      "bytes": 46133,
+      "sha256": "d877960303bc711efbbeda53dd4c1e1bfe51a4429f3737a5f24c53b241be26f7"
+    },
+    {
+      "file": "village_media/thumbnails/intertat_photo_01.jpg",
+      "bytes": 50939,
+      "sha256": "619534ea4b3628a1294c01a73b410befe13b99926e15c0cebf5468b4b844e912"
+    },
+    {
+      "file": "village_media/thumbnails/intertat_photo_02.jpg",
+      "bytes": 41934,
+      "sha256": "34aeb450b4a7f5c05a6bb65498d397ad5d693c1fab23891b73cc03674579b6eb"
+    },
+    {
+      "file": "village_media/thumbnails/intertat_photo_03.jpg",
+      "bytes": 54355,
+      "sha256": "62c9fbb46e0c1ddaffb9d916a8d50b9e81b166d61429e51cda2ad4902a655956"
+    },
+    {
+      "file": "village_media/thumbnails/intertat_photo_04.jpg",
+      "bytes": 66142,
+      "sha256": "b4b661a7d68419299b98d9a58e280201ff025acaf60414dda5890fd0a1dcbd37"
+    },
+    {
+      "file": "village_media/thumbnails/intertat_photo_05.jpg",
+      "bytes": 41449,
+      "sha256": "df7c2f2e0f74f7273c2e24bd2df5aac62dc01d09cc29107bda7d7f653ad00de8"
+    },
+    {
+      "file": "village_media/thumbnails/intertat_photo_06.jpg",
+      "bytes": 27857,
+      "sha256": "0f3d0f54cc453ea55f29c29b42ebc13101a70cf032273a6ab4e7bdbd720ae98e"
+    },
+    {
+      "file": "village_media/thumbnails/intertat_photo_07.jpg",
+      "bytes": 51081,
+      "sha256": "fb795d72cf6649db099877c967a7cd94fa24a71e4d53c767351a9704e52fd6a1"
+    },
+    {
+      "file": "village_media/thumbnails/intertat_photo_08.jpg",
+      "bytes": 42832,
+      "sha256": "1d23a5c26b463293f3e75334b41dd483b5260de80a03f445ea3c9613120f0d30"
+    },
+    {
+      "file": "village_media/thumbnails/intertat_photo_09.jpg",
+      "bytes": 40467,
+      "sha256": "0576dc80cc012e9c579c1c9c0eb26dca5430830c905fd6aae63d076ec2a93566"
+    },
+    {
+      "file": "village_media/thumbnails/mishar_family_1897.jpg",
+      "bytes": 45649,
+      "sha256": "57a20306ad5bb914ee983a8d24b28b981b86f7c56a830a2213a21635305093d6"
+    },
+    {
+      "file": "village_media/thumbnails/mishar_forge_1897.jpg",
+      "bytes": 55418,
+      "sha256": "9e06a8d02e9e84da5fedf72c9b69d11649f6a834b41de87d524573cab889bf3e"
+    },
+    {
+      "file": "village_media/thumbnails/mishar_uniform_1845_1855.jpg",
+      "bytes": 28659,
+      "sha256": "a1805388a1ff4dfef58a793f77df8e84c84db03e0c26a86cc15a46e88fee6bf0"
+    },
+    {
+      "file": "village_media/thumbnails/russia_n38_1_1997.jpg",
+      "bytes": 55206,
+      "sha256": "2e078a07f8103ff8888b1852fce9fd68393c5451d2823a7e94e46099afbc6037"
+    },
+    {
+      "file": "village_media/thumbnails/school_taktash_2011.jpg",
+      "bytes": 33062,
+      "sha256": "da0a299efcc4b04445b10a34edb606565d9410f72e165460c5bb86022f72f5bd"
+    },
+    {
+      "file": "village_media/thumbnails/soviet_n38_063_1989.jpg",
+      "bytes": 56291,
+      "sha256": "bacdc3929502b14594421389f5156a4d9dfad65553de5d6b9f6e9c7e36cbe6a0"
+    },
+    {
+      "file": "village_media/thumbnails/soviet_n38_14_1992.jpg",
+      "bytes": 57571,
+      "sha256": "810e60a2a5262615f33a0768a167bd197bf46167fab477f82cdee7e9cf4dfa4e"
+    }
+  ],
+  "total_bytes": 18290486,
+  "files_over_25_mib": []
+}
